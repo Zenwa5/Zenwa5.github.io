@@ -1,11 +1,11 @@
 # Site settings
 author: Ezenwa Onukwue
-title: 
+title: Failing Fast
 header-img: img/home-bg.png
 email: ezenwa.onukwue@salesloft.com
 copyright_name: Ezenwa Onukwue
 description: > # this means to ignore newlines until "baseurl:"
-  
+  An introspective journey into Test Driven Development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Zenwa5
