@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "def ambition (commitment)"
-date:       2018-11-14 22:44:30 +0000
+date:       2018-11-14 17:44:31 -0500
 permalink:  def_ambition_commitment
 ---
 
@@ -16,12 +16,14 @@ I'm learning Software Development to not only test myself, but to help me on my 
 
 Flatiron School is helping me achieve that goal. 
 
+```
 def ambition(commitment)
 
    if commitment > 0
 	   puts "Congratulations, keep going!"
  
    else
-     ni
+     nil
 	 end
 end
+```
